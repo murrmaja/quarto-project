@@ -2,21 +2,21 @@
   {
     "objectID": "boring.html",
     "href": "boring.html",
-    "title": "Vorname Mittelname Nachname",
+    "title": "Vorname Nachname",
     "section": "",
     "text": "BORING\nThis is a boring webpage!\nhttps://www.dropbox.com/s/zzggaive1lpr6ja/Syllabus%20Marketing%20Seminar%20WiSe%202022.pdf?dl=0\nhttps://github.com/dhguhl/mirscr\nhttps://bitbucket.org/dhguhl/workspace/snippets/6eMBry/accompanying-r-code-multinomial-logit"
   },
   {
     "objectID": "fun.html",
     "href": "fun.html",
-    "title": "Vorname Mittelname Nachname",
+    "title": "Vorname Nachname",
     "section": "",
     "text": "FUN\n\na <- 3\na^2\n\n[1] 9"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Vorname Mittelname Nachname",
+    "title": "Vorname Nachname",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
